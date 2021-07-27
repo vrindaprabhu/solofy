@@ -20,7 +20,7 @@ __NOTE:__
 - [x] Make an end-to-end pipeline.
 - [x] Move configurations to a single location. All configurations now in __solofy.py__ under `config` folder.
 - [x] Have a streamlit demo.
-- [ ] Add requirements.txt.
+- [x] Add requirements.txt.
 - [ ] Handle exceptions more effectively.
 - [ ] Test for GPU support and higher resolution image.
 - [x] Use multiprocessing.
