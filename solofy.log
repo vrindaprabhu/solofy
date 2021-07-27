@@ -1,0 +1,2 @@
+2021-07-25:22:27:50,469 - root - INFO - [main.py:18] - === Starting a new solofy activity. ===
+2021-07-25:22:27:50,469 - root - INFO - [main.py:20] - Calling the detection and saliency functions
