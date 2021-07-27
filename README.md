@@ -2,7 +2,6 @@
 
 ## Purpose 
 The is an initial version of the repo which can be used to reduce the presence of people from the photos. 
-
 In other words, make the picture fully focussed on the selected person - hence the name - _Solofy_.
 
 Has only been tested on CPU.
